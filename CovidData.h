@@ -1,5 +1,4 @@
 //  CovidData.h
-//  EPP actual part 2
 //
 //  Created by dennis tye on 3/26/20.
 //  Copyright © 2020 dennis tye. All rights reserved.
